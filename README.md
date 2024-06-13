@@ -23,7 +23,7 @@ Following that, I did a bunch of different things that I learned through the int
 	- I switched to only using CMake instead of Visual Studio
 	- I continued some more attempts at cellular automatons, without much success.
 	- I messed around with [Alda](https://alda.io/) and [Lilypond](http://lilypond.org/), music coding languages, though not a lot.
-	- I messed around more with C, first with OpenGL, by making a program that would give you different parts of the [Julia set](https://en.wikipedia.org/wiki/Julia_set) depending on your cursor's position.
+	- I messed around more with C, first with OpenGL, by making a program that would give you different parts of the [Julia set](https://en.wikipedia.org/wiki/Julia_set) depending on your cursor's position, a project that was inspired by [this video](https://www.youtube.com/watch?v=uc2yok_pLV4).
 	- More with C, I learned a bit about the Win32 API, following a [tutorial](http://www.winprog.org/tutorial/). I learned the basics of the basics, but not enough to really make something with it, maybe one day I'll make an [OpenGL Context](https://www.khronos.org/opengl/wiki/Creating_an_OpenGL_Context_(WGL)).
 - I finally made Conway's Game of Life with javascript using WebGL. It works on mobile as well as different computers.
 - My sister gave me her old Mac, I just messed around with it and recompiled project that I had already done, the first ones being the Julia set and the chaotic attractors. I also made a version of the latter with a stereoscopic view. Unfortunately, OSX doesn't support OpenGL beyond 4.1, so there's no compute shader support.
