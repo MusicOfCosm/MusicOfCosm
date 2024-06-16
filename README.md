@@ -10,8 +10,9 @@ While searching for tutorials, I found [sentdex](https://www.youtube.com/@sentde
 
 Following that, I did a bunch of different things that I learned through the internet:
 - Inspired by my piano professor who acquired through experience the skill to guess a note just by hearing it, I made a Python script that would play a note, and I would have to guess which one it is.
+- I made a script that could run Q&As on the terminal.
 - I learned enough [Blender](https://www.blender.org/) just to make a gift for my sister.
-- I made a script that could run Q&As, first as a console only prototype, then as a GUI with tkinter.
+- I reworked the Q&A project as a GUI with Tkinter.
 - Inspired by [Sebastian Lague](https://www.youtube.com/@SebastianLague)'s [Slime mold simulation](https://www.youtube.com/watch?v=X-iSQQgOd1A), I replicated it using [OpenCV](https://opencv.org/) with Python, then [Cython](https://cython.org/), and eventually learning C/C++ because I wasn't satisfied with the speed.
 - I learned enough [OpenGL](https://opengl.org/) by following [the most famous tutorial](https://learnopengl.com/Getting-started/OpenGL) .
 - I downloaded [Debian](https://debian.org/) with [WSL](https://learn.microsoft.com/en-us/windows/wsl/about), and learned a bit about Linux, I compiled some existing projects with it.
