@@ -13,7 +13,7 @@ Following that, I did a bunch of different things that I learned through the int
 - I made a script that could run Q&As on the terminal.
 - I learned enough [Blender](https://www.blender.org/) just to make a gift for my sister.
 - I reworked the Q&A project as a GUI with Tkinter.
-- Inspired by [Sebastian Lague](https://www.youtube.com/@SebastianLague)'s [Slime mold simulation](https://www.youtube.com/watch?v=X-iSQQgOd1A), I replicated it using [OpenCV](https://opencv.org/) with Python, then [Cython](https://cython.org/), and eventually learning C/C++ because I wasn't satisfied with the speed.
+- Inspired by [Sebastian Lague](https://www.youtube.com/@SebastianLague)'s [Slime mold simulation](https://www.youtube.com/watch?v=X-iSQQgOd1A), I tried replicated it using [OpenCV](https://opencv.org/) with Python, then did it with [Cython](https://cython.org/), and eventually learning C/C++ because I wasn't satisfied with the speed.
 - I learned enough [OpenGL](https://opengl.org/) by following [the most famous tutorial](https://learnopengl.com/Getting-started/OpenGL) .
 - I downloaded [Debian](https://debian.org/) with [WSL](https://learn.microsoft.com/en-us/windows/wsl/about), and learned a bit about Linux, I compiled some existing projects with it.
 - For a relative's gift, I made a simulation in OpenGL of different chaotic attractors using [ImGui](https://github.com/ocornut/imgui) as a GUI.
